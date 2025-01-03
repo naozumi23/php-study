@@ -28,3 +28,7 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+# mySQL
+**/mysql.sock
+**/mysql.sock.lock
